@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 风满楼</title>
+    <link>https://blog.motofans.club/categories/</link>
+    <description>Recent content in Categories on 风满楼</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.motofans.club/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ceph</title>
+      <link>https://blog.motofans.club/categories/ceph/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.motofans.club/categories/ceph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GlusterFS</title>
+      <link>https://blog.motofans.club/categories/glusterfs/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.motofans.club/categories/glusterfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://blog.motofans.club/categories/linux/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.motofans.club/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>https://blog.motofans.club/categories/storage/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.motofans.club/categories/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://blog.motofans.club/categories/windows/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.motofans.club/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSL</title>
+      <link>https://blog.motofans.club/categories/wsl/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.motofans.club/categories/wsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://blog.motofans.club/categories/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.motofans.club/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
